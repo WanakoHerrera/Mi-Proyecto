@@ -16,8 +16,6 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 10px 15px;
-    /* background: #48e; */
-    /* gap: 8px; */
 }
 
 .burger {
@@ -209,3 +207,4 @@ hr {
     border-radius: 12px;
 
 }
+
