@@ -170,7 +170,7 @@ hr {
 
 .item img {
     width: 40%;
-    filter: drop-shadow(1px 1px 0 #48e, 1px 1px 0 #48e);
+    filter: drop-shadow(1px 1px 0 #48e), drop-shadow(1px 1px 0 #48e);
 }
 
 .item p {
@@ -200,6 +200,7 @@ hr {
     border-radius: 12px;
 
 }
+
 
 
 
