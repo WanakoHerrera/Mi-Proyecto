@@ -119,7 +119,6 @@ hr {
 }
 
 .content-main {
-    
     height: 22em;
     background: linear-gradient(#0009, #000), url(img/vendedor-en-la-tienda-y-hablando-con-un-cliente.webp);
     background-position: center center;
@@ -131,12 +130,8 @@ hr {
     justify-content: center;
     text-align: center;
     gap: 50px;
-    /* margin-top: 20px; */
-    /* padding: .7rem; */
     object-fit: contain;
 }
-
-
 
 .seo-content-main {
     color: #48e;
@@ -144,7 +139,6 @@ hr {
 }
 
 .parrafo-content-main {
-    
     margin: 0 0 12px 0;
     color: #444;
 }
@@ -206,5 +200,6 @@ hr {
     border-radius: 12px;
 
 }
+
 
 
