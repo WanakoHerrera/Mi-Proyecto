@@ -164,13 +164,13 @@ hr {
     justify-content: center;
     align-items: center;
     background-color: #0001;
-    border-radius: 5px;
     padding: 15px;
 }
 
 .item img {
     width: 40%;
     filter: drop-shadow(1px 1px 0 #48e, 1px 1px 0 #48e, 1px 1px 0 #48e);
+    border-radius: 10px;
 }
 
 .item p {
@@ -200,6 +200,7 @@ hr {
     border-radius: 12px;
 
 }
+
 
 
 
