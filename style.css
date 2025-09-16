@@ -178,7 +178,7 @@ hr {
 
 .item img {
     width: 40%;
-    filter: drop-shadow(1px 1px 0 red);
+    filter: drop-shadow(1px 1px 0 #48e);
 }
 
 .item p {
@@ -207,4 +207,5 @@ hr {
     height: 16em;
     object-fit: cover;
     border-radius: 12px;
+
 }
