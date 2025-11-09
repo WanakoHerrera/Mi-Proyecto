@@ -80,7 +80,7 @@ html {
 }
 
 .logo {
-    color: #002c6f;
+    color: #f00c6f;
     text-decoration: none;
     font-weight: 800;
     font-size: 1.8rem;
@@ -208,4 +208,5 @@ hr {
     height: 16em;
     object-fit: cover;
     border-radius: 12px;
+
 }
